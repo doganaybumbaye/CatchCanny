@@ -1,8 +1,8 @@
 # CatchCanny
 A little game for learning UITapGestureRecognizer
 
+![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/96667197/147395708-c1420fad-3220-4dac-a1a3-fdd8d8aded39.gif)
 
-![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/96667197/147395647-d2f32e08-ea2a-4115-9627-6f52b073a308.gif)
 
 
 - [x] Using UITapGestureRecognizer how adding to items, and how it enable for the user taps.
